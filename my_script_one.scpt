@@ -6,3 +6,4 @@ display dialog "Hello there from AppleScript." default answer "Bye bye" buttons 
 say text returned of result
 
 
+
