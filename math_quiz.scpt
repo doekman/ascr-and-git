@@ -51,7 +51,6 @@ do {
 		defaultButton: 2
 	})
 
-} while (answer.buttonReturned == "Proceed")
+} while (answer.buttonReturned.indexOf("proceed")>0)
 
 "Thanks for playing!"
-
